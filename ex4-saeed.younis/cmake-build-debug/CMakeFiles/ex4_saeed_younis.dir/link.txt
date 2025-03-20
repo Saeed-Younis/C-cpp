@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex4_saeed_younis.dir/matrix.cpp.o CMakeFiles/ex4_saeed_younis.dir/Activation.cpp.o CMakeFiles/ex4_saeed_younis.dir/Dense.cpp.o CMakeFiles/ex4_saeed_younis.dir/MlpNetwork.cpp.o CMakeFiles/ex4_saeed_younis.dir/Test_33.cpp.o -o ex4_saeed_younis 
